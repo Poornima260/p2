@@ -1,4 +1,4 @@
-# Retail Sales Analysis SQL Project
+# Retail Sales Analysis SQL Project (April batch)
 
 ## Project Overview
 
